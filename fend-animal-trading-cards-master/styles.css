@@ -1,0 +1,42 @@
+.animal-fact {
+    font-style: italic;
+}
+
+ul span {
+    font-weight: bold;
+}
+
+ul {
+    margin: 10px 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: justify;
+}
+
+.card-container {
+    margin: auto;
+    border: 2px solid #7a8290;
+    width: 320px;
+    box-shadow: 10px 10px 5px #e2e0e0;
+    padding: 10px;
+    background-color: #ecf0f5;
+}
+
+.animal-description {
+    margin: auto;
+    border: 1px solid #000000;
+    padding: 2px 10px 10px 10px;
+    width: 280px;
+}
+
+.animal-img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 300px;
+    height: auto;
+}
+
+h3 {
+    margin-left: 10px;
+}
